@@ -1,0 +1,81 @@
+Enter database (0, 1, 2):  Invalid input
+Enter database (0, 1, 2):  Invalid input
+Enter database (0, 1, 2):  Parsed 5 recipes
+1.  Print summary
+2.  Print summary by prep time
+3.  Print summary by category
+4.  Print recipe
+5.  Exit
+Enter option:    0.  "Creamy" Salmon  Skinny One-Pot   0:54  Eat-Lf Mailing List
+  1.  "Dump" Salad     Susan Jennings   1:02  Desserts,Eat-Lf Mailing List
+  2.  "Grilled" Glaze  (Annice Grinber  1:45  Eat-Lf Mailing List
+  3.  "Instant" Sorbe  <vegan-l@temple  0:31  Desserts,Eat-Lf Mailing List
+  4.  "Tastes Like Fr  Phil Glowatz     1:10  Chicken,Eat-Lf Mailing List
+1.  Print summary
+2.  Print summary by prep time
+3.  Print summary by category
+4.  Print recipe
+5.  Exit
+Enter option:  Enter time (h m):  Invalid input
+Enter time (h m):    0.  "Creamy" Salmon  Skinny One-Pot   0:54  Eat-Lf Mailing List
+  3.  "Instant" Sorbe  <vegan-l@temple  0:31  Desserts,Eat-Lf Mailing List
+1.  Print summary
+2.  Print summary by prep time
+3.  Print summary by category
+4.  Print recipe
+5.  Exit
+Enter option:  Enter category:    0.  "Creamy" Salmon  Skinny One-Pot   0:54  Eat-Lf Mailing List
+  2.  "Grilled" Glaze  (Annice Grinber  1:45  Eat-Lf Mailing List
+1.  Print summary
+2.  Print summary by prep time
+3.  Print summary by category
+4.  Print recipe
+5.  Exit
+Enter option:  Enter recipe number:  Invalid input
+Enter recipe number:  Invalid input
+Enter recipe number:  Recipe:      "Instant" Sorbet
+By:          <vegan-l@temple.vm> (Reggie Dwork)
+Prep Time:   0:31
+Categories:  Desserts
+             Eat-Lf Mailing List
+             Fruit
+             Vegan
+             Vegetarian
+
+Ingredients:
+  1                Can  Peaches -- juice packed
+
+Instructions:
+
+This is a frozen dessert, that, with a little pre-planning,
+is practically instant.
+
+ Take a can of juice-packed peaches or pineapple.  Freeze it for
+several hours.  (That's right, just put the can in the freezer!)
+Open and dump frozen contents into food processor with metal
+chopping blade in place or into a blender.  Process until desired
+consistency. Enjoy!
+
+Note: You can also do this with frozen bananas.  I find this is a
+good way to use them this time of year when they get over-ripe so
+quickly.  Freeze them* in "zip-lock" type bags - peeling them when
+frozen can give you frostbite!  They end up very creamy--like very rich
+ice cream...but with no added fat,sugar, etc...   *w/o peels
+
+This is actually quite good and extremely easy!!
+
+Entered into MasterCook II and tested for you by Reggie Dwork
+reggie@reggie.com
+
+>From: Lisa <BENNETT@UNIVSCVM.CSD.SCAROLINA.EDU>
+
+
+
+
+
+1.  Print summary
+2.  Print summary by prep time
+3.  Print summary by category
+4.  Print recipe
+5.  Exit
+Enter option:  

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Database_Functions.c
+stdio.h
+-
+Recipe.h
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe.h
+string.h
+-
+stdlib.h
+-
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe.h
+
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe_Database.c
+stdio.h
+-
+Recipe.h
+/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe.h
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Recipe_Database"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Recipe_Database">
+				<Option output="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Recipe_Database" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 Recipe_Database"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Recipe_Database/fast">
+				<Option output="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Recipe_Database" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 Recipe_Database/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ezanakebede/Documents/School/Semesters/2\ Spring\ 2021/ENEE150/CLionProjects/Recipe_Database/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Database_Functions.c">
+			<Option target="Recipe_Database"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe.h">
+			<Option target="Recipe_Database"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/Recipe_Database.c">
+			<Option target="Recipe_Database"/>
+		</Unit>
+		<Unit filename="/Users/ezanakebede/Documents/School/Semesters/2 Spring 2021/ENEE150/CLionProjects/Recipe_Database/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
